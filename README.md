@@ -58,7 +58,7 @@ This dataset is provided for academic and research purposes. Please adhere to th
 If you use this dataset in your research, please cite it as follows:
 
 ```bibtex
-@dataset{your_name_aiml_papers_2024,
+@dataset{
   title = {AI & Machine Learning Research Papers Dataset},
   author = {Khushwant Sanwalot},
   year = {2024},
