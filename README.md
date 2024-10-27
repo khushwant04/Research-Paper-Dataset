@@ -22,23 +22,7 @@ This dataset contains a curated collection of 1296 research papers focused on ad
 
 ## Dataset Details
 
-### Columns
-
-| Column             | Description                                                                                           |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| `paper_id`         | Unique identifier for each paper.                                                                     |
-| `title`            | Title of the research paper.                                                                          |
-| `abstract`         | Summary or abstract of the paper’s content.                                                           |
-| `authors`          | List of authors, separated by commas.                                                                 |
-| `publication_date` | Date of publication (in `YYYY-MM-DD` format).                                                         |
-| `journal`          | Journal or conference where the paper was published.                                                  |
-| `keywords`         | Relevant keywords associated with the paper.                                                          |
-| `pdf_url`          | Direct link to the full-text PDF (where available).                                                   |
-| `doi`              | Digital Object Identifier (DOI) for easy citation and referencing.                                    |
-| `citations`        | Number of citations, where available.                                                                 |
-| `topics`           | Primary topics or categories the paper belongs to, e.g., NLP, Computer Vision, Reinforcement Learning.|
-
----
+All the Data in Pdf formats.
 
 ## Usage Examples
 
